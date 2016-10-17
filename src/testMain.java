@@ -3,7 +3,7 @@
  */
 public class testMain {
     public static void main(String[] args){
-        char[] a = new char[21];
-        System.out.print(a[0]);
+        char a = _389FindTheDifference.findTheDifference("adbs","adbss");
+        System.out.print(a);
     }
 }
