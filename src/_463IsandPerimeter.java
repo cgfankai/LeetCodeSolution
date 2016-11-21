@@ -11,6 +11,10 @@ public class _463IsandPerimeter {
                         perimeter++;
                     if (j == 0 || j == grid[i].length - 1)
                         perimeter++;
+                    if(i == grid.length - 1)
+                        perimeter++;
+                    if (j == grid[i].length - 1)
+                        perimeter++;
                     if (j > 0  && grid[i][j - 1] == 0 )
                         perimeter++;
                     if (i > 0  && grid[i - 1][j] == 0 )
