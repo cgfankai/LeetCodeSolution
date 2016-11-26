@@ -1,4 +1,4 @@
-package Collections;
+package main.java.Collections;
 
 /**
  * Created by fankai on 2016/10/18.

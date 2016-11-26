@@ -1,6 +1,6 @@
 package test;
 
-import main._406QueueReconstructionByHeight;
+import main.java._406QueueReconstructionByHeight;
 import org.junit.Assert;
 import org.junit.Test;
 

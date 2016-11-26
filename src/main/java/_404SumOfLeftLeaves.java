@@ -1,6 +1,6 @@
-package main;
+package main.java;
 
-import Collections.TreeNode;
+import main.java.Collections.TreeNode;
 
 import java.util.Stack;
 

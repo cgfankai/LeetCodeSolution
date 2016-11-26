@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 /**
  * Created by fankai on 2016/11/21.
