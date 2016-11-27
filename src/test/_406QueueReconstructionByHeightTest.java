@@ -18,5 +18,4 @@ public class _406QueueReconstructionByHeightTest {
 
         Assert.assertArrayEquals(people1, result);
     }
-
 }
