@@ -1,10 +1,8 @@
 package test;
 
-import main.java.Collections._462MinimumMovesToEqualArrayElementsII;
+import main.java._462MinimumMovesToEqualArrayElementsII;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by cgfan on 2016/11/27.
