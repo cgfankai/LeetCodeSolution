@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created by cgfan on 2016/11/27.
+ * Created by fankai on 2016/11/27.
  */
 public class _462MinimumMovesToEqualArrayElementsIITest {
     @Test

@@ -7,7 +7,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by cgfan on 2016/11/27.
+ * Created by fankai on 2016/11/27.
  */
 public class _413ArithmeticSlicesTest {
     @Test
