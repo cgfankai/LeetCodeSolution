@@ -13,6 +13,8 @@ public class _167TwoSumII_InputArrayIsSortedTest {
     public void twoSum() throws Exception {
         int[] result = new _167TwoSumII_InputArrayIsSorted().twoSum(new int[]{2,7,11,15}, 9);
         assertArrayEquals(new int[]{1,2}, result);
+        result = new _167TwoSumII_InputArrayIsSorted().twoSum(new int[]{-3,3,4,90}, 0);
+        assertArrayEquals(new int[]{1,2}, result);
     }
 
 }
