@@ -16,7 +16,7 @@ public class _382LinkedListRandomNodeTest {
         head.next = new ListNode(2);
         head.next.next = new ListNode(3);
         _382LinkedListRandomNode _382LinkedListRandomNode = new _382LinkedListRandomNode(head);
-
+        int[] results = {1,2,3};
     }
 
 }
